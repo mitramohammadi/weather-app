@@ -1,0 +1,39 @@
+body {
+  background: linear-gradient(
+    108.1deg,
+    rgb(167, 220, 225) 11.2%,
+    rgb(217, 239, 242) 88.9%
+  );
+}
+
+.weather-app-body {
+  background: #9bd7dd;
+  border: 0.5px solid rgb(167, 220, 225);
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px #4f6e8d;
+  max-width: 700px;
+  max-height: 500px;
+  margin: 50px auto;
+}
+.form-control {
+  background: transparent;
+  border: none;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 20px;
+}
+.text-box {
+  background: transparent;
+  border-radius: 5px;
+  color: #22313f;
+}
+.search-button {
+  background: #e4f1fe;
+  border-radius: 5px;
+  border: 1px solid #22313f;
+}
+.current-button {
+  background: #e4f1fe;
+  border-radius: 5px;
+  border: 1px solid #22313f;
+}
